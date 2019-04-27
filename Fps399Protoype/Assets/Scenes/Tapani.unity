@@ -366,7 +366,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 280f50e646f52044690f3e14ef6761ae, type: 2}
+  - {fileID: 2100000, guid: bf683f5763fdfb44aa4824951b3fcc68, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -731,7 +731,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 280f50e646f52044690f3e14ef6761ae, type: 2}
+  - {fileID: 2100000, guid: bf683f5763fdfb44aa4824951b3fcc68, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -822,7 +822,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 280f50e646f52044690f3e14ef6761ae, type: 2}
+  - {fileID: 2100000, guid: bf683f5763fdfb44aa4824951b3fcc68, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -976,12 +976,12 @@ Light:
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
-    m_Resolution: -1
+    m_Resolution: 1
     m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_Strength: 0.1
+    m_Bias: 0.08
+    m_NormalBias: 0.67
+    m_NearPlane: 0.7
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -1008,7 +1008,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1025,13 +1025,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1993134539}
-  m_LocalRotation: {x: 0.6968166, y: -0.1792376, z: 0.18671142, w: 0.668924}
-  m_LocalPosition: {x: 6.602764, y: 15.6, z: -35.305824}
+  m_LocalRotation: {x: 0.820665, y: -0.17908157, z: 0.39478308, w: 0.3722702}
+  m_LocalPosition: {x: 4.3, y: 21.5, z: -35.305824}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 92.34, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 131.2, y: -51.38, z: 0}
 --- !u!1 &2092041771
 GameObject:
   m_ObjectHideFlags: 0
@@ -1045,7 +1045,7 @@ GameObject:
   - component: {fileID: 2092041773}
   - component: {fileID: 2092041772}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: MovableBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1081,7 +1081,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a7d82aea4714a134c9def40bb6660e9e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1117,7 +1117,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092041771}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.5, y: 0.5, z: 0}
+  m_LocalPosition: {x: 13, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1228,6 +1228,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983835951181171795, guid: 0729be25f0092d94b82ab414e77d3b1e,
+        type: 3}
+      propertyPath: m_ClearFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983835951181171795, guid: 0729be25f0092d94b82ab414e77d3b1e,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.25845498
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983835951181171795, guid: 0729be25f0092d94b82ab414e77d3b1e,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.33404532
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983835951181171795, guid: 0729be25f0092d94b82ab414e77d3b1e,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.4528302
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0729be25f0092d94b82ab414e77d3b1e, type: 3}
