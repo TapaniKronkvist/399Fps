@@ -5,7 +5,7 @@ using UnityEngine;
 public class PhysicsGun : MonoBehaviour
 {
     [SerializeField] float range = 5.0f;
-    [SerializeField] Transform objectToHold;
+    public Transform objectToHold;
     [SerializeField] Transform holdingOffset;
     public PhysicsGunOffsetCollider test;
     [SerializeField] bool offsetTest;
@@ -40,9 +40,10 @@ public class PhysicsGun : MonoBehaviour
             print("picked box up");
             moving = true;
         }
-        if (moving && offsetTest == false) //Carry Static Object
+        if (moving && offsetTest == false && objectToHold != null) //Carry Static Object
         {
             objectToHold.transform.position = holdingOffset.transform.position;
+           
             col.transform.rotation = objectToHold.transform.rotation;
         }
         if (Input.GetButtonUp("Fire1")) //Release Static Object

@@ -6,33 +6,36 @@ public class PhysicsGunOffsetCollider : MonoBehaviour
 {
     public PhysicsGun pg;
     public bool failure = false;
-    [SerializeField] List<Collider> coll;
+    //[SerializeField] List<Collider> coll;
     
     void OnTriggerEnter(Collider other)
     {
-
-        coll.Add(other);
+        /*coll.Add(other);
         if (coll.Count > 1)
         {
-            failure = true;
             coll.Clear();
-        }
-
+            failure = true;
+        }*/
         print("Added to list");
     }
-
     void OnTriggerStay(Collider other)
     {
-
         if (other.gameObject.tag == "StaticObject")
-        failure = true;
-        print("hit static");
+        {
+            pg.objectToHold = null; 
+            failure = true;
+            print("hit static");
+        }
+        
     }
     void OnTriggerExit(Collider other)
     {
         if (other.gameObject.tag == "StaticObject")
+        {
             failure = false;
-        print("hit static");
+            print("hit static");
+        }
+        
     }
     
     
