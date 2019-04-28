@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - moveable
+  - StaticObject
   layers:
   - Default
   - TransparentFX

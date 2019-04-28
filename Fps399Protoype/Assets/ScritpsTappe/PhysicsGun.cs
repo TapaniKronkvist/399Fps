@@ -4,57 +4,58 @@ using UnityEngine;
 
 public class PhysicsGun : MonoBehaviour
 {
-    private float range = 5.0f;
-    [SerializeField] private Transform objectToHold;
-    [SerializeField] private Transform holdingOffset;
-    Collider check;
+    [SerializeField] float range = 5.0f;
+    [SerializeField] Transform objectToHold;
+    [SerializeField] Transform holdingOffset;
+    public PhysicsGunOffsetCollider test;
+    [SerializeField] bool offsetTest;
+    public bool moving = false; //When moving object around
+    public Collider col;
 
-
-    void Update()
+    private void Start()
+    {
+        offsetTest = test.failure;
+    }
+    void LateUpdate()
     {
         RaycastHit hit;
         Vector3 forward = transform.TransformDirection(Vector3.forward) * range;
-        Debug.DrawRay(transform.position, forward, Color.green);
+        
         if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, range))
         {
             if (hit.transform.tag == "moveable")
             {
-                    objectToHold = hit.transform;
+                print("moveable in reach");
+                objectToHold = hit.transform;
             }
         }
-        
-
+        Debug.DrawRay(transform.position, forward, Color.green);
     }
-    private void LateUpdate()
+    void Update()
     {
-        
-        if (objectToHold != null)
-        {
-            
-            if (Input.GetButton("Fire1"))
-            {
-                check = objectToHold.GetComponent<Collider>();
-                objectToHold.transform.position = holdingOffset.transform.position;
-                objectToHold.transform.rotation = holdingOffset.transform.rotation;
-            }
-        }
-        else
-        {
-            objectToHold = null;
-        }
-        if (Input.GetButtonUp("Fire1"))
-        {
-            objectToHold = null;
-        }
-        if (check == true)
-        {
-            objectToHold = null;
-        }
+        offsetTest = test.failure;
 
-    }
-    private void OnCollisionEnter(Collision check)
-    {
-        objectToHold = null;
+        if (Input.GetButton("Fire1") && objectToHold != null && moving == false && offsetTest == false) //Checking all parameters for picking up box 
+        {
+            print("picked box up");
+            moving = true;
+        }
+        if (moving && offsetTest == false) //Carry Static Object
+        {
+            objectToHold.transform.position = holdingOffset.transform.position;
+            col.transform.rotation = objectToHold.transform.rotation;
+        }
+        if (Input.GetButtonUp("Fire1")) //Release Static Object
+        {
+            col.transform.rotation = holdingOffset.transform.rotation;
+            moving = false;
+            objectToHold = null;
+        }
+        if (!moving)
+        {
+            offsetTest = false;
+            objectToHold = null;
+        }
     }
 
 }
