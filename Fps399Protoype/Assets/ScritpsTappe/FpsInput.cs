@@ -11,8 +11,8 @@ public class FpsInput : MonoBehaviour
     public enum States { moving, interacting}
     States state;
 
-    public float speed = 6.0f, dash, gravity, jumpForce = 12.0f; //Normal speed, dash speed, gravity force;
-    [SerializeField] float gravityMultiplier = 24.0f;
+    public float speed = 6.0f, dash, gravity, jumpForce = 25.0f; //Normal speed, dash speed, gravity force;
+    [SerializeField] float gravityMultiplier = 0.7f;
     [SerializeField] private float currentSpeed; //Calculated speed and true speed of character
     private CharacterController _charController;
 
