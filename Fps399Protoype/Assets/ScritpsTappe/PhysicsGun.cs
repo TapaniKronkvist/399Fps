@@ -46,18 +46,18 @@ public class PhysicsGun : MonoBehaviour
             }
         }
         Debug.DrawRay(transform.position, forward, Color.green);
-    }
+    } //Raycast.
     void Update()
     {
         offsetTest = test.failure;
         if (moveMode) //Display
         {
             displayText.text = $"Move Mode\n\n{magazine}"; //Show mag size
-        }
+        } //Display move mode and ammo on display.
         else
         {
             displayText.text = $"Shoot Mode\n\n{magazine}"; //Show mag size
-        }
+        } //Display shoot mode and ammo on display.
 
         if (Input.GetButton("Fire1") && objectToHold != null && moving == false && offsetTest == false && moveMode) //Checking all parameters for picking up box 
         {
@@ -67,7 +67,6 @@ public class PhysicsGun : MonoBehaviour
         if (moving && offsetTest == false && objectToHold != null) //Carry Static Object
         {
             objectToHold.transform.position = holdingOffset.transform.position;
-           
             col.transform.rotation = objectToHold.transform.rotation;
         }
         if (Input.GetButtonUp("Fire1")) //Release Static Object
@@ -76,15 +75,23 @@ public class PhysicsGun : MonoBehaviour
             moving = false;
             objectToHold = null;
         }
-        if (moving == true && Input.GetButton("Fire2"))
+        if (moving == true && Input.GetButton("Fire2") && moveMode)
         {
             CharginShoot();
-        }
+        } //Charging to desolve object.
         if (!moving)
         {
             offsetTest = false;
             objectToHold = null;
-        }
+        } //Reset if object dropped.
+        if (Input.GetKeyDown(KeyCode.E)) //Changing mode Key will change to input settings later
+        {
+            SwitchMode();
+        }//Switching firemode
+        if (Input.GetButtonDown("Fire1") && moveMode == false)
+        {
+            Fire();
+        } //Fire weapon in Shoot mode.
     }
     void CharginShoot()
     {
@@ -100,8 +107,9 @@ public class PhysicsGun : MonoBehaviour
                     Destroy(objectToHold.gameObject);
                     objectToHold = null;
                     moving = false;
+                    counter = maxCounter;
                 }
-                displayText.text = "Charging";
+                
                 counter = maxCounter;
 
             }
@@ -114,7 +122,27 @@ public class PhysicsGun : MonoBehaviour
         }
         else
         {
+            counter = maxCounter;
             return;
         }
-    }
+    } //Chargin to desolve object for ammo.
+    void SwitchMode()
+    {
+        if (moveMode)
+        {
+            moveMode = false;
+        }
+        else
+        {
+            moveMode = true;
+        }
+    } //Switch firemode. 
+    void Fire()
+    {
+        if (magazine > 0)
+        {
+            print("Shot fired");
+            magazine--;
+        }
+    } //Shooting desolved object.
 }
