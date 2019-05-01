@@ -64,7 +64,7 @@ public class FpsInput : MonoBehaviour
     {
         if(!_charController.isGrounded)
         {
-            gravity -= gravityMultiplier * Time.deltaTime;
+            gravity -= gravityMultiplier;
         }
     }
 
