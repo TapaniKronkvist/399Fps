@@ -5,6 +5,7 @@ using UnityEngine;
 public class weaponLaser : MonoBehaviour
 {
     LineRenderer line;
+    public PhysicsGun modeReference;
 
     void Start()
     {
@@ -14,7 +15,7 @@ public class weaponLaser : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && modeReference.moveMode == false)
         {
             StopCoroutine("FireLaser");
             StartCoroutine("FireLaser");
