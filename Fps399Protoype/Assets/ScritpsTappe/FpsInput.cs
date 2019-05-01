@@ -8,12 +8,12 @@ using UnityEngine;
 [AddComponentMenu("Control Script/Fps Input")]
 public class FpsInput : MonoBehaviour
 {
-
     public enum States { moving, interacting}
     States state;
 
-    public float speed = 6.0f, dash, gravity; //Normal speed, dash speed, gravity force;
-    [SerializeField]private float currentSpeed; //Calculated speed and true speed of character
+    public float speed = 6.0f, dash, gravity, jumpForce = 12.0f; //Normal speed, dash speed, gravity force;
+    [SerializeField] float gravityMultiplier = 24.0f;
+    [SerializeField] private float currentSpeed; //Calculated speed and true speed of character
     private CharacterController _charController;
 
 	// Use this for initialization
@@ -38,7 +38,6 @@ public class FpsInput : MonoBehaviour
                 Interacting();
                 break;
         }
-        
 	}
     void Moving()
     {
@@ -46,15 +45,29 @@ public class FpsInput : MonoBehaviour
         float deltaX = Input.GetAxis("Horizontal") * currentSpeed;
         float deltaZ = Input.GetAxis("Vertical") * currentSpeed;
         Vector3 movement = new Vector3(deltaX, 0, deltaZ);
+
+        if (Input.GetAxis("Jump") != 0 && _charController.isGrounded)
+        {
+            gravity = jumpForce;
+        }
+
         movement = Vector3.ClampMagnitude(movement, currentSpeed);
 
         movement.y = gravity;
         movement *= Time.deltaTime;
         movement = transform.TransformDirection(movement);
         _charController.Move(movement);
-
-      
+        Falling();
     }
+
+    void Falling()
+    {
+        if(!_charController.isGrounded)
+        {
+            gravity -= gravityMultiplier * Time.deltaTime;
+        }
+    }
+
     void Interacting()
     {
         print("Interacting");
