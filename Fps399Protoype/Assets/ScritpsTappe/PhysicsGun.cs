@@ -88,25 +88,32 @@ public class PhysicsGun : MonoBehaviour
     }
     void CharginShoot()
     {
-        counter -= 1.0f * Time.deltaTime;
-        Debug.Log(counter);
-        if (counter <= 0.0f)
+        if (moving)
         {
-            if (objectToHold != null)
+            counter -= 1.0f * Time.deltaTime;
+            Debug.Log(counter);
+            if (counter <= 0.0f)
             {
-                magazine++;
-                
-                Destroy(objectToHold.gameObject);
-                objectToHold = null;
-            }
-            displayText.text = "Charging";
-            counter = maxCounter;
+                if (objectToHold != null)
+                {
+                    magazine++;
+                    Destroy(objectToHold.gameObject);
+                    objectToHold = null;
+                    moving = false;
+                }
+                displayText.text = "Charging";
+                counter = maxCounter;
 
+            }
+            print("Chargin shoot");
+            if (!moving || objectToHold == null)
+            {
+                counter = maxCounter;
+                return;
+            }
         }
-        print("Chargin shoot");
-        if (!moving || objectToHold == null) 
+        else
         {
-            counter = maxCounter;
             return;
         }
     }

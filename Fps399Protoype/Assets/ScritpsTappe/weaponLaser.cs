@@ -15,7 +15,7 @@ public class weaponLaser : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Fire1") && modeReference.moveMode == false)
+        if (Input.GetButtonDown("Fire1") && modeReference.moveMode == true)
         {
             StopCoroutine("FireLaser");
             StartCoroutine("FireLaser");
