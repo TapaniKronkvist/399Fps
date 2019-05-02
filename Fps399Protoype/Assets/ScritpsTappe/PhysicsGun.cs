@@ -15,13 +15,18 @@ public class PhysicsGun : MonoBehaviour
     public bool moving = false; //When moving object around
     public Collider col;
     public bool moveMode;
-
-    //Chargin Shoot variables
+    
+    //Chargin shot var
     [SerializeField] private int magazine;
     [SerializeField] float counter;
     private float maxCounter;
     public TMPro.TextMeshProUGUI displayText;
-    
+
+    //Shooting var 
+    [SerializeField] GameObject bulletPrefab;
+    [SerializeField] GameObject bulletEmitter;
+    [SerializeField] float bulletSpeed;
+
     private void Start()
     {
         moveMode = true;
@@ -141,6 +146,12 @@ public class PhysicsGun : MonoBehaviour
     {
         if (magazine > 0)
         {
+            GameObject bulletClone;
+            bulletClone = Instantiate(bulletPrefab, bulletEmitter.transform.position, bulletEmitter.transform.rotation) as GameObject;
+            Rigidbody newBulletBody;
+            newBulletBody = bulletClone.GetComponent<Rigidbody>();
+            newBulletBody.AddForce(transform.forward * bulletSpeed);
+
             print("Shot fired");
             magazine--;
         }
