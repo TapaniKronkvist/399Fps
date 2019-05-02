@@ -50,6 +50,14 @@ public class FpsInput : MonoBehaviour
         {
             gravity = jumpForce;
         }
+        if(Input.GetAxis("Sprint") != 0)
+        {
+            currentSpeed = 30;
+        }
+        else
+        {
+            currentSpeed = 20;
+        }
 
         movement = Vector3.ClampMagnitude(movement, currentSpeed);
 
