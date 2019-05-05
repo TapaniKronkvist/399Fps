@@ -6,6 +6,6 @@ public class Blockade : MonoBehaviour
 {
    public void Disable()
     {
-        enabled = false;
+        Destroy(gameObject);
     }
 }
