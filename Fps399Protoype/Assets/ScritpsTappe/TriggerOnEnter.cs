@@ -10,12 +10,14 @@ modular and works on any non static object. Written by Tapani Kronkvist*/
 public class TriggerOnEnter : MonoBehaviour
 {
     public UnityEvent RemoveBlockade;//Call to disable;
+    public UnityEvent ActivateEnemy;//Call to disable;
 
     public void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")
         {
             RemoveBlockade.Invoke();
+            ActivateEnemy.Invoke();
         }
     } //RemoveBlockade object is called and disabled via Blockade.Disable;
 
