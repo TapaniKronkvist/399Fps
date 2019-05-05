@@ -1292,7 +1292,7 @@ GameObject:
   - component: {fileID: 8945778642578562260}
   m_Layer: 0
   m_Name: SpiderPrefab
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1359,7 +1359,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38fb8c5b0320a5e4bbdbf13434d83ae1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 5
   goal: {fileID: 5983835952180637972, guid: 0729be25f0092d94b82ab414e77d3b1e, type: 3}
+  inactive: 0
+  anim: {fileID: 0}
 --- !u!95 &8945778642578562260
 Animator:
   serializedVersion: 3

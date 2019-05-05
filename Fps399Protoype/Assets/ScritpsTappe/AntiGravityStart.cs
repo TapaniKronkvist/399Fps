@@ -1,7 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
+//This class in not complete!
 public class AntiGravityStart : MonoBehaviour
 {
     [SerializeField] private GameObject player;
@@ -12,7 +11,7 @@ public class AntiGravityStart : MonoBehaviour
     
     public FpsInput getPlayerGravity;
     [SerializeField] private float playerNormalGravity;
-    // Start is called before the first frame update
+
     void Start()
     {
         contact = false;
@@ -40,6 +39,7 @@ public class AntiGravityStart : MonoBehaviour
             print("Player entered");
         }
     }
+
     private void OnTriggerExit(Collider other)
     {
         if (other.gameObject.tag == "Player" )

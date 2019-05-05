@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//Bullet hit logic
+//Bullet hit logic Not yet complete.
 public class Bullet : MonoBehaviour
 {
     void OnTriggerEnter(Collider hit)
