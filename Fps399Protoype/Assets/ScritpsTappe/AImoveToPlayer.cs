@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+//Ai behaviour made for eneies that move to player and attacks in close combat.
 public class AImoveToPlayer : MonoBehaviour
 {
     public Transform goal;
@@ -12,6 +13,7 @@ public class AImoveToPlayer : MonoBehaviour
 
     void Start()
     {
+        goal = GameObject.FindGameObjectWithTag("Player").transform;
         anim = GetComponent<Animator>();
         anim.enabled = false;
         inactive = true;
