@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This class is not yet complete.
 public class AntiGravityMovement : MonoBehaviour
 {
     [SerializeField] private Transform player;
@@ -9,15 +10,13 @@ public class AntiGravityMovement : MonoBehaviour
     [SerializeField] private float xRotation;
     public FpsInput getPlayerGravity;
     [SerializeField] private float playerNormalGravity;
-    // Start is called before the first frame update
+
     void Start()
     {
         playerNormalGravity = getPlayerGravity.gravity;
         contact = false;
         //xRotation = GetComponent<Transform>().rotation.x; 
     }
-
-    // Update is called once per frame
 
     private void OnTriggerEnter(Collider other)
     {
