@@ -10,7 +10,8 @@ modular and works on any non static object. Written by Tapani Kronkvist*/
 public class TriggerOnEnter : MonoBehaviour
 {
     public UnityEvent RemoveBlockade;//Call to disable;
-    public UnityEvent ActivateEnemy;//Call to disable;
+    public UnityEvent ActivateEnemy;//Call to enable;
+    public UnityEvent OpenDoor;//Call to open
 
     public void OnTriggerEnter(Collider other)
     {
@@ -18,6 +19,7 @@ public class TriggerOnEnter : MonoBehaviour
         {
             RemoveBlockade.Invoke();
             ActivateEnemy.Invoke();
+            OpenDoor.Invoke();
         }
     } //RemoveBlockade object is called and disabled via Blockade.Disable;
 
