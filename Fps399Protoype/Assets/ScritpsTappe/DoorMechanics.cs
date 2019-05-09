@@ -1,18 +1,14 @@
 ﻿using UnityEngine;
 
+//Door opening mechanic. Not yet finished. Door is currently destroyed on open.
 public class DoorMechanics : MonoBehaviour
 {
     [SerializeField] bool unlocked;
     
     public void Open()
     {
-        if (unlocked)
-        {
+
+            Destroy(gameObject);
             Debug.Log("Door opened");
-        }
-        else
-        {
-            Debug.Log("Door is locked");
-        }
     }
 }
