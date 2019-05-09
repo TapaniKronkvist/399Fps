@@ -12,14 +12,16 @@ public class TriggerOnEnter : MonoBehaviour
     public UnityEvent RemoveBlockade;//Call to disable;
     public UnityEvent ActivateEnemy;//Call to enable;
     public UnityEvent OpenDoor;//Call to open
-
+    public UnityEvent ActivateBlockade;//Activates blockade
     public void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")
         {
             RemoveBlockade.Invoke();
+            ActivateBlockade.Invoke();
             ActivateEnemy.Invoke();
             OpenDoor.Invoke();
+            Destroy(gameObject);
         }
     } //RemoveBlockade object is called and disabled via Blockade.Disable;
 
