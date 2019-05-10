@@ -11,6 +11,8 @@ public class AImoveToPlayer : MonoBehaviour
     NavMeshAgent agent;
     [SerializeField] bool inactive;
     [SerializeField] Animator anim;
+    [SerializeField] AudioSource source;
+    
 
     void Start()
     {
@@ -20,6 +22,8 @@ public class AImoveToPlayer : MonoBehaviour
         inactive = true;
         anim.enabled = false;
         agent = GetComponent<NavMeshAgent>();
+        source = GetComponent<AudioSource>();
+        source.enabled = false;
         
     }//Initialize and sets to inactive
 
@@ -33,6 +37,7 @@ public class AImoveToPlayer : MonoBehaviour
     {
         anim.enabled = true;
         inactive = false;
+        source.enabled = true;
     } //Gets activatet by TriggerOnEnter.cs
 
     public void TakeDamage(int amount)
