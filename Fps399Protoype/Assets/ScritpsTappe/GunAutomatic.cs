@@ -11,6 +11,11 @@ public class GunAutomatic : MonoBehaviour
     [SerializeField] float fireReady;
     [SerializeField] GameObject hitEffect;
     [SerializeField] float impactForce;
+    [SerializeField] GameObject SFXShoot;
+    [SerializeField] GameObject SFXHit;
+    [SerializeField] GameObject MuzzleFlare;
+    [SerializeField] GameObject PartSpiderHit;
+    [SerializeField] Transform muzzle;
     
     void Start()
     {
@@ -53,10 +58,14 @@ public class GunAutomatic : MonoBehaviour
             {
                 AImoveToPlayer enemyHit = hit.transform.GetComponent<AImoveToPlayer>();
                 enemyHit.TakeDamage(damage);
+                Instantiate(PartSpiderHit, hit.point, Quaternion.LookRotation(hit.normal));
                 Debug.Log("Hit enemy");
             }
             Instantiate(hitEffect, hit.point, Quaternion.LookRotation(hit.normal));
+            Instantiate(SFXShoot);//SFX when Shooting
+            Instantiate(MuzzleFlare,muzzle.transform.position, transform.rotation);//Part Effect
+            Instantiate(SFXHit, hit.point, Quaternion.LookRotation(hit.normal)); //Impact SFX
         }
         
-    }//Raycast shooting, damage delt to AImoveToPlayer, also impacts anything with a rigidbody.
+    }//Raycast shooting, damage delt to AImoveToPlayer, also impacts anything with a rigidbody. SFX instantiation
 }
