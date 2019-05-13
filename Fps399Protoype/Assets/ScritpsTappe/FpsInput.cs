@@ -21,7 +21,6 @@ public class FpsInput : MonoBehaviour
     {
         state = States.moving;
         _charController = GetComponent<CharacterController>();
-        speed = 6.0f;
         currentSpeed = speed; //Sets speed to normal
         
 	}
@@ -52,11 +51,11 @@ public class FpsInput : MonoBehaviour
         }
         if(Input.GetAxis("Sprint") != 0)
         {
-            currentSpeed = 30;
+            currentSpeed = speed * 2;
         }
         else
         {
-            currentSpeed = 20;
+            currentSpeed = speed;
         }
 
         movement = Vector3.ClampMagnitude(movement, currentSpeed);
