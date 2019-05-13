@@ -17,10 +17,10 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   shutterAngle:
-    overrideState: 0
+    overrideState: 1
     value: 270
   sampleCount:
-    overrideState: 0
+    overrideState: 1
     value: 10
 --- !u!114 &-565518766189044635
 MonoBehaviour:
@@ -90,7 +90,7 @@ MonoBehaviour:
     overrideState: 1
     value: 0.71
   color:
-    overrideState: 0
+    overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
   ambientOnly:
     overrideState: 0
