@@ -140,7 +140,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6141055
 Transform:
@@ -173,6 +173,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -263,6 +268,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -351,6 +361,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -530,7 +545,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!4 &28801772 stripped
 Transform:
@@ -552,7 +567,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &29448487
 Transform:
@@ -579,6 +594,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -668,6 +688,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -760,7 +785,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &41109152
 Transform:
@@ -832,7 +857,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -941,7 +966,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &51357105
 Transform:
@@ -1058,6 +1083,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1152,6 +1182,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -1250,7 +1285,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &74110152
 Transform:
@@ -1292,7 +1327,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &81627143
 Transform:
@@ -1384,7 +1419,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &90075991
 Transform:
@@ -1417,6 +1452,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -1515,7 +1555,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &116351608
 Transform:
@@ -1550,6 +1590,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -1737,6 +1782,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1828,7 +1878,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &125222126
 Transform:
@@ -1879,6 +1929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -1971,7 +2026,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &142720701
 Transform:
@@ -1998,6 +2053,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -2096,7 +2156,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &146882404
 Transform:
@@ -2123,6 +2183,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -2250,7 +2315,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &154548442
 Transform:
@@ -2280,7 +2345,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &154780566
 Transform:
@@ -2307,6 +2372,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -2397,6 +2467,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2485,6 +2560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -2771,7 +2851,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &169266963
 Transform:
@@ -2876,6 +2956,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2964,6 +3049,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -3127,11 +3217,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 176732768}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 4.9, y: 11.42, z: -47.21}
+  m_LocalPosition: {x: 8.28, y: 11.42, z: -52.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &179230518
 GameObject:
@@ -3238,7 +3328,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &180071411
 Transform:
@@ -3304,7 +3394,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -3334,6 +3424,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -3462,7 +3557,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -3492,6 +3587,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -3675,7 +3775,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &189896325
 Transform:
@@ -3705,7 +3805,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &190556380
 Transform:
@@ -3741,7 +3841,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &192212353
 Transform:
@@ -3776,6 +3876,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -3977,7 +4082,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &208266688
 Transform:
@@ -4015,7 +4120,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &214223709
 Transform:
@@ -4093,7 +4198,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -4126,7 +4231,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &236860196
 Transform:
@@ -4153,6 +4258,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -4243,6 +4353,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4331,6 +4446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -4498,6 +4618,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4589,7 +4714,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &246757439
 Transform:
@@ -4619,7 +4744,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &250401301
 Transform:
@@ -4655,7 +4780,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &257027328
 Transform:
@@ -4690,6 +4815,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -4779,6 +4909,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -4889,7 +5024,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &262100448
 Transform:
@@ -5101,7 +5236,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -5170,7 +5305,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &274329081
 Transform:
@@ -5200,7 +5335,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &274677504
 Transform:
@@ -5230,7 +5365,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &279840713
 Transform:
@@ -5296,7 +5431,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -5326,6 +5461,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -5416,6 +5556,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5504,6 +5649,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -5596,7 +5746,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &296461551
 Transform:
@@ -5626,7 +5776,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &308896597
 Transform:
@@ -5653,6 +5803,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -5754,6 +5909,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -5935,6 +6095,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6107,6 +6272,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6210,7 +6380,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &327444795
 Transform:
@@ -6393,6 +6563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6481,6 +6656,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -6661,6 +6841,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -6958,6 +7143,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7046,6 +7236,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -7148,6 +7343,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7237,6 +7437,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7325,6 +7530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -7429,7 +7639,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &378326126
 Transform:
@@ -7459,7 +7669,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &378948491
 Transform:
@@ -7489,7 +7699,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &385108063
 Transform:
@@ -7650,7 +7860,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &403404467
 Transform:
@@ -7686,7 +7896,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &411786092
 Transform:
@@ -7713,6 +7923,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -7805,7 +8020,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &414773483
 Transform:
@@ -7835,7 +8050,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &419246527
 Transform:
@@ -7865,7 +8080,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &423609071
 Transform:
@@ -7901,7 +8116,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &429701807
 Transform:
@@ -7937,7 +8152,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &431755100
 Transform:
@@ -7964,6 +8179,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -8056,7 +8276,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &435983292
 Transform:
@@ -8083,6 +8303,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -8276,7 +8501,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &447166952
 Transform:
@@ -8312,7 +8537,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &451551159
 Transform:
@@ -8408,7 +8633,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &462541313
 Transform:
@@ -8444,7 +8669,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &469556768
 Transform:
@@ -8480,7 +8705,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &471781214
 Transform:
@@ -8542,7 +8767,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &474580623 stripped
 Transform:
@@ -8564,7 +8789,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &480271488
 Transform:
@@ -8597,6 +8822,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -8689,7 +8919,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &484806731
 Transform:
@@ -8722,6 +8952,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -8814,7 +9049,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &496538363
 Transform:
@@ -8939,6 +9174,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -9067,7 +9307,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -9196,7 +9436,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &511428487
 Transform:
@@ -9241,6 +9481,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -9331,6 +9576,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9419,6 +9669,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -9642,7 +9897,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -9897,6 +10152,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9986,6 +10246,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10074,6 +10339,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10188,6 +10458,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10291,7 +10566,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &585580499
 Transform:
@@ -10318,6 +10593,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10410,7 +10690,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &592744722
 Transform:
@@ -10437,6 +10717,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10529,7 +10814,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &598509642
 Transform:
@@ -10611,7 +10896,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &609959829
 Transform:
@@ -10641,7 +10926,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &614806478
 Transform:
@@ -10676,6 +10961,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10768,7 +11058,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &646773184
 Transform:
@@ -10801,6 +11091,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10890,6 +11185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -10982,7 +11282,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &652828223
 Transform:
@@ -11020,7 +11320,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &654414699
 Transform:
@@ -11050,7 +11350,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &655939117
 Transform:
@@ -11077,6 +11377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -11167,6 +11472,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11255,6 +11565,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -11351,6 +11666,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11442,7 +11762,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &670943224
 Transform:
@@ -11477,6 +11797,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -11661,7 +11986,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &692871569
 Transform:
@@ -11688,6 +12013,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -11783,6 +12113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -11881,7 +12216,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &717672436
 Transform:
@@ -12014,7 +12349,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &722316031
 Transform:
@@ -12049,6 +12384,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -12230,7 +12570,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &740200454
 Transform:
@@ -12263,6 +12603,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -12359,6 +12704,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12442,6 +12792,75 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 17003975}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &758429399
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7691453397470723214, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -56.334297
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.70830375
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7059078
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6694268543478812317, guid: d0c6ca53263077f42803cda611ccbfaf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90.19401
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d0c6ca53263077f42803cda611ccbfaf, type: 3}
 --- !u!4 &758550510 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
@@ -12459,6 +12878,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -12537,6 +12961,85 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 230c2c01a01854e42b8e419f93a96a45, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18dfb5ca23ce8e459eeb5465b350d23, type: 3}
+--- !u!1001 &762500259
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.42
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.82
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -56.33
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4991877
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50081104
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5008806
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4991179
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90.008
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!1 &764713782
 GameObject:
   m_ObjectHideFlags: 0
@@ -12551,7 +13054,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &764713783
 Transform:
@@ -12593,7 +13096,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &781056079
 Transform:
@@ -12623,7 +13126,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &785305987
 Transform:
@@ -12656,6 +13159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -12745,6 +13253,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -12849,7 +13362,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &802507739
 Transform:
@@ -12891,7 +13404,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &811730173
 Transform:
@@ -12933,7 +13446,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &815207875
 Transform:
@@ -12963,7 +13476,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &816275095
 Transform:
@@ -12990,6 +13503,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13082,7 +13600,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &831844508
 Transform:
@@ -13127,6 +13645,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13217,6 +13740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13305,6 +13833,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13397,7 +13930,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &871852831
 Transform:
@@ -13470,6 +14003,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13562,7 +14100,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &879790560
 Transform:
@@ -13592,7 +14130,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &882781369
 Transform:
@@ -13619,6 +14157,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13711,7 +14254,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &884796952
 Transform:
@@ -13749,7 +14292,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &885823756
 Transform:
@@ -13789,7 +14332,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &887336940
 Transform:
@@ -13816,6 +14359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -13985,7 +14533,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &888118428
 Transform:
@@ -14027,7 +14575,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &897370379
 Transform:
@@ -14065,7 +14613,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &897659682
 Transform:
@@ -14092,6 +14640,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -14196,7 +14749,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &903087027
 Transform:
@@ -14314,6 +14867,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -14501,6 +15059,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14590,6 +15153,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14678,6 +15246,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -14780,6 +15353,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14869,6 +15447,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14957,6 +15540,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -15049,7 +15637,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &934015666
 Transform:
@@ -15076,6 +15664,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -15166,6 +15759,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15255,6 +15853,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15343,6 +15946,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -15438,6 +16046,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -15626,6 +16239,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15715,6 +16333,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15803,6 +16426,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -15899,6 +16527,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15987,6 +16620,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -16170,7 +16808,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &972024687
 Transform:
@@ -16206,7 +16844,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &973459075
 Transform:
@@ -16339,7 +16977,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &997038040
 Transform:
@@ -16378,6 +17016,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -16470,7 +17113,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1013099033
 Transform:
@@ -16536,7 +17179,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -16569,7 +17212,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1018278539
 Transform:
@@ -16635,7 +17278,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -16738,7 +17381,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1020649531
 Transform:
@@ -16771,6 +17414,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -16863,7 +17511,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1030447376
 Transform:
@@ -16893,7 +17541,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1032793277
 Transform:
@@ -16920,6 +17568,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -17101,6 +17754,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17228,7 +17886,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -17264,6 +17922,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -17356,7 +18019,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1049124211
 Transform:
@@ -17386,7 +18049,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1049233311
 Transform:
@@ -17434,7 +18097,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1055323665
 Transform:
@@ -17464,7 +18127,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1057846677
 Transform:
@@ -17503,6 +18166,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -17595,7 +18263,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1068928350
 Transform:
@@ -17691,7 +18359,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -17729,7 +18397,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1082536572
 Transform:
@@ -17854,7 +18522,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1089376583
 Transform:
@@ -17881,6 +18549,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -18009,7 +18682,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -18360,6 +19033,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18503,7 +19181,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1122591089
 Transform:
@@ -18530,6 +19208,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -18622,7 +19305,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1123654270
 Transform:
@@ -18667,6 +19350,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -18769,6 +19457,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18864,6 +19557,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18955,7 +19653,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1137928727
 Transform:
@@ -18982,6 +19680,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -19074,7 +19777,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1140194360
 Transform:
@@ -19110,7 +19813,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1150468844
 Transform:
@@ -19143,6 +19846,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -19342,6 +20050,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19520,6 +20233,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19611,7 +20329,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1173963067
 Transform:
@@ -19647,7 +20365,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1177909583
 Transform:
@@ -19674,6 +20392,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -19764,6 +20487,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19841,6 +20569,85 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 230c2c01a01854e42b8e419f93a96a45, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18dfb5ca23ce8e459eeb5465b350d23, type: 3}
+--- !u!1001 &1191873515
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.499771
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.8088014
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.94
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70590717
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7083003
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0017995313
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0015961507
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.017
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 179.725
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.80601
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!1 &1192327278
 GameObject:
   m_ObjectHideFlags: 0
@@ -19855,7 +20662,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1192327279
 Transform:
@@ -19891,7 +20698,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1195458757
 Transform:
@@ -20056,7 +20863,7 @@ PrefabInstance:
     - target: {fileID: 8915118579051962112, guid: 74403ca764c38f94e83f9194a59903e2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 25
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 8915118579051962112, guid: 74403ca764c38f94e83f9194a59903e2,
         type: 3}
@@ -20089,7 +20896,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1198292101
 Transform:
@@ -20242,7 +21049,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -20350,7 +21157,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!4 &1201542799 stripped
 Transform:
@@ -20369,6 +21176,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -20473,7 +21285,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1203973807
 Transform:
@@ -20503,7 +21315,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1205122820
 Transform:
@@ -20539,7 +21351,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1218153549
 Transform:
@@ -20581,7 +21393,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1229122640
 Transform:
@@ -20608,6 +21420,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -20700,7 +21517,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1234015966
 Transform:
@@ -20730,7 +21547,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1235853606
 Transform:
@@ -20760,7 +21577,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1237435208
 Transform:
@@ -20790,7 +21607,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1241147278
 Transform:
@@ -20862,7 +21679,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -20991,6 +21808,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21079,6 +21901,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -21177,7 +22004,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1269339306
 Transform:
@@ -21291,7 +22118,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1279789988
 Transform:
@@ -21318,6 +22145,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -21410,7 +22242,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1285071184
 Transform:
@@ -21437,6 +22269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -21526,6 +22363,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -21618,7 +22460,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1292321356
 Transform:
@@ -21648,7 +22490,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1292519161
 Transform:
@@ -21678,7 +22520,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1292972891
 Transform:
@@ -21749,7 +22591,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1309114866
 Transform:
@@ -21785,7 +22627,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1320035073
 Transform:
@@ -21812,6 +22654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -21926,6 +22773,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22017,7 +22869,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1330050505
 Transform:
@@ -22050,6 +22902,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -22178,7 +23035,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -22286,7 +23143,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!4 &1337022897 stripped
 Transform:
@@ -22329,6 +23186,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -22427,7 +23289,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1340329317
 Transform:
@@ -22460,6 +23322,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -22549,6 +23416,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -22641,7 +23513,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1351003568
 Transform:
@@ -22714,7 +23586,7 @@ Transform:
   - {fileID: 1371719869}
   - {fileID: 333358945}
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1360287194
 GameObject:
@@ -22730,7 +23602,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1360287195
 Transform:
@@ -22768,7 +23640,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1360896801
 Transform:
@@ -22804,7 +23676,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1371679480
 Transform:
@@ -22846,7 +23718,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1374356709
 Transform:
@@ -22876,7 +23748,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1379639203
 Transform:
@@ -22903,6 +23775,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -22992,6 +23869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -23094,6 +23976,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23182,6 +24069,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -23283,6 +24175,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -23540,7 +24437,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1422767128
 Transform:
@@ -23567,6 +24464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -23741,6 +24643,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23836,6 +24743,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23924,6 +24836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -24014,6 +24931,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24091,6 +25013,85 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 230c2c01a01854e42b8e419f93a96a45, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18dfb5ca23ce8e459eeb5465b350d23, type: 3}
+--- !u!1001 &1439688970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.95
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.73
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.94
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5003151
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5020818
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.49960682
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.49798766
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 269.725
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.991005
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!4 &1444468778 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
@@ -24126,6 +25127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -24310,7 +25316,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1466527798
 Transform:
@@ -24352,7 +25358,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1478740234
 Transform:
@@ -24379,6 +25385,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -24469,6 +25480,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24557,6 +25573,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -24655,7 +25676,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1502935575
 Transform:
@@ -24691,7 +25712,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1509029594
 Transform:
@@ -24730,6 +25751,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -24997,7 +26023,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1526084558
 Transform:
@@ -25027,7 +26053,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1526778176
 Transform:
@@ -25224,7 +26250,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1537112117
 Transform:
@@ -25257,6 +26283,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -25349,7 +26380,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1544636460
 Transform:
@@ -25393,7 +26424,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1548042073
 Transform:
@@ -25426,6 +26457,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -25521,6 +26557,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -25637,7 +26678,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1580394714
 Transform:
@@ -25664,6 +26705,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -25859,7 +26905,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1588513900
 Transform:
@@ -26005,6 +27051,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26093,6 +27144,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26191,7 +27247,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1606118520
 Transform:
@@ -26218,6 +27274,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26307,6 +27368,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26399,7 +27465,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1609537588
 Transform:
@@ -26439,7 +27505,7 @@ Transform:
   - {fileID: 1777572650}
   - {fileID: 722316031}
   m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1617747247
 PrefabInstance:
@@ -26452,6 +27518,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26554,6 +27625,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26642,6 +27718,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26734,7 +27815,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1633975095
 Transform:
@@ -26855,7 +27936,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1637489022
 Transform:
@@ -26888,6 +27969,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -26980,7 +28066,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1645977453
 Transform:
@@ -27007,6 +28093,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -27099,7 +28190,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1650659365
 Transform:
@@ -27220,7 +28311,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1653240176
 Transform:
@@ -27378,7 +28469,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1669250673
 Transform:
@@ -27405,6 +28496,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -27497,7 +28593,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1671042802
 Transform:
@@ -27570,6 +28666,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -27662,7 +28763,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1683765895
 Transform:
@@ -27728,7 +28829,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -27758,6 +28859,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -27878,6 +28984,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27969,7 +29080,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1706708825
 Transform:
@@ -28076,7 +29187,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1711671416
 Transform:
@@ -28199,6 +29310,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28290,7 +29406,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1721801092
 Transform:
@@ -28317,6 +29433,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -28409,7 +29530,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1722776914
 Transform:
@@ -28439,7 +29560,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1723515374
 Transform:
@@ -28491,7 +29612,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1726347104
 Transform:
@@ -28524,6 +29645,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -28616,7 +29742,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1740824085
 Transform:
@@ -28677,7 +29803,7 @@ PrefabInstance:
     - target: {fileID: 5983835952180637972, guid: 0729be25f0092d94b82ab414e77d3b1e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 5983835952180637972, guid: 0729be25f0092d94b82ab414e77d3b1e,
         type: 3}
@@ -28728,6 +29854,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -28896,7 +30027,7 @@ Transform:
   m_LocalScale: {x: 0.15000047, y: 1, z: 0.3000005}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: -270, y: 0, z: 179.99998}
 --- !u!1 &1760551517
 GameObject:
@@ -28912,7 +30043,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1760551518
 Transform:
@@ -29019,7 +30150,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1766078130
 Transform:
@@ -29046,6 +30177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29135,6 +30271,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29231,6 +30372,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29322,7 +30468,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1777572650
 Transform:
@@ -29357,6 +30503,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29449,7 +30600,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1782999325
 Transform:
@@ -29476,6 +30627,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29568,7 +30724,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1785321045
 Transform:
@@ -29595,6 +30751,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29684,6 +30845,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29779,6 +30945,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -29877,7 +31048,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1800379306
 Transform:
@@ -29907,7 +31078,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1800826997
 Transform:
@@ -30026,6 +31197,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30123,7 +31299,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1811280618
 Transform:
@@ -30257,7 +31433,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1818329405
 Transform:
@@ -30287,7 +31463,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1819230176
 Transform:
@@ -30422,6 +31598,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30513,7 +31694,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1838008948
 Transform:
@@ -30548,6 +31729,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -30751,7 +31937,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1839444741
 PrefabInstance:
@@ -30764,6 +31950,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -30856,7 +32047,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1840033342
 Transform:
@@ -30894,7 +32085,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1845264927
 Transform:
@@ -30929,6 +32120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -31201,7 +32397,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1867714264
 Transform:
@@ -31217,6 +32413,85 @@ Transform:
   m_Father: {fileID: 2041996420}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1871940995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.42
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.82
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -56.33
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4991877
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50081104
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5008806
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4991179
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90.008
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!4 &1873995286 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
@@ -31237,7 +32512,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1874109920
 Transform:
@@ -31273,7 +32548,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1879815929
 Transform:
@@ -31303,7 +32578,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1883109109
 Transform:
@@ -31345,7 +32620,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1898853591
 Transform:
@@ -31547,6 +32822,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31638,7 +32918,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1907706828
 Transform:
@@ -31671,6 +32951,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -31760,6 +33045,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -31953,7 +33243,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1932716415
 Transform:
@@ -31989,7 +33279,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1935069531
 Transform:
@@ -32016,6 +33306,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32105,6 +33400,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32218,6 +33518,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32380,6 +33685,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32469,6 +33779,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32546,6 +33861,85 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 230c2c01a01854e42b8e419f93a96a45, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18dfb5ca23ce8e459eeb5465b350d23, type: 3}
+--- !u!1001 &1952315087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.499771
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.8088014
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.94
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70590717
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7083003
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0017995313
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0015961507
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.017
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 179.725
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.80601
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!4 &1955795542 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
@@ -32563,6 +33957,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32655,7 +34054,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1956781194
 Transform:
@@ -32682,6 +34081,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32800,7 +34204,7 @@ Transform:
   - {fileID: 1674425857}
   - {fileID: 2047650747}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1967890599
 PrefabInstance:
@@ -32813,6 +34217,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -32941,7 +34350,7 @@ PrefabInstance:
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 178432575371138202, guid: 4d0823be2a22fbe469b69edc56ec7c11,
         type: 3}
@@ -33156,7 +34565,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1978489793
 Transform:
@@ -33186,7 +34595,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1980243662
 Transform:
@@ -33222,7 +34631,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1983055308
 Transform:
@@ -33249,6 +34658,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -33345,6 +34759,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -33422,6 +34841,85 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 230c2c01a01854e42b8e419f93a96a45, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18dfb5ca23ce8e459eeb5465b350d23, type: 3}
+--- !u!1001 &1987155197
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Name
+      value: GroundModel (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.95
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.73
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.94
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5003151
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5020818
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.49960682
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.49798766
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 269.725
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.991005
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: cba6436a8a3cff946b53532d1447a378,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d343c844d3cbd489ad2c9f3025f2cf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cba6436a8a3cff946b53532d1447a378, type: 3}
 --- !u!1001 &1988529744
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33433,6 +34931,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -33531,7 +35034,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1992736411
 Transform:
@@ -33573,7 +35076,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2001409956
 Transform:
@@ -33678,7 +35181,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &2006742241
 GameObject:
@@ -33694,7 +35197,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2006742242
 Transform:
@@ -33721,6 +35224,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -33810,6 +35318,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -33902,7 +35415,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2019104326
 Transform:
@@ -33947,6 +35460,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34036,6 +35554,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34232,7 +35755,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2050839164
 Transform:
@@ -34268,7 +35791,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2060150767
 Transform:
@@ -34295,6 +35818,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34399,7 +35927,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2066805086
 Transform:
@@ -34426,6 +35954,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34515,6 +36048,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34607,7 +36145,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2073099931
 Transform:
@@ -34634,6 +36172,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -34738,7 +36281,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2088195173
 Transform:
@@ -34869,7 +36412,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2093875179
 Transform:
@@ -35008,6 +36551,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -35099,7 +36647,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2105939371
 Transform:
@@ -35220,7 +36768,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2114477553
 Transform:
@@ -35247,6 +36795,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -35336,6 +36889,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
@@ -35432,6 +36990,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -35523,7 +37086,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2126636510
 Transform:
@@ -35553,7 +37116,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2133647086
 Transform:
@@ -35658,6 +37221,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasementWallv1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c18dfb5ca23ce8e459eeb5465b350d23,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c18dfb5ca23ce8e459eeb5465b350d23,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -35749,7 +37317,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2138393620
 Transform:
@@ -35779,7 +37347,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2139116807
 Transform:
@@ -35809,7 +37377,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2143137254
 Transform:
@@ -35839,7 +37407,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2143651114
 Transform:
@@ -35869,7 +37437,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2144255923
 Transform:
@@ -36020,7 +37588,7 @@ PrefabInstance:
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 3719133893470829715, guid: e44fea0e44502c945bb155e82ececb94,
         type: 3}
@@ -36251,7 +37819,7 @@ PrefabInstance:
     - target: {fileID: 5503621542983911607, guid: 82cf9c8d60050d049a22aeba6c6893f7,
         type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 5503621542983911607, guid: 82cf9c8d60050d049a22aeba6c6893f7,
         type: 3}
@@ -36301,6 +37869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BasementWallv1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900755666028290015, guid: 79a9695dcb8ab744aa5ac3ff45c32b4b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 3187298313241865676, guid: 79a9695dcb8ab744aa5ac3ff45c32b4b,
         type: 3}
@@ -36357,6 +37930,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7584407169524288644, guid: 79a9695dcb8ab744aa5ac3ff45c32b4b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 79a9695dcb8ab744aa5ac3ff45c32b4b, type: 3}
 --- !u!1001 &8915118579036441643
@@ -36409,7 +37987,7 @@ PrefabInstance:
     - target: {fileID: 8915118579051962112, guid: 74403ca764c38f94e83f9194a59903e2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8915118579051962112, guid: 74403ca764c38f94e83f9194a59903e2,
         type: 3}
